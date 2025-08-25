@@ -1,0 +1,2 @@
+Essa pasta é para conter apenas os arquivos XML do Lattes, obtidos pelo representante da Universidade responsável por download da plataforma Lattes.
+Esses arquivos foram omitidos para preservar espaço no repositório.
