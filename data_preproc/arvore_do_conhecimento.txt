@@ -1,0 +1,1290 @@
+Ciências Agrárias
+	Agronomia
+		Ciência do Solo
+			Gênese Morfologia e Classificação dos Solos
+			Física do Solo
+			Química do Solo
+			Microbiologia e Bioquímica do Solo
+			Fertilidade do Solo e Adubação
+			Manejo e Conservação do Solo
+		Fitossanidade
+			Fitopatologia
+		Entomologia Agrícola
+			Parasitologia Agrícola
+			Microbiologia Agrícola
+			Defesa Fitossanitária
+		Fitotecnia
+			Manejo e Tratos Culturais
+			Mecanização Agrícola
+			Produção e Beneficiamento de Sementes
+			Produção de Mudas
+			Melhoramento Vegetal
+			Fisiologia de Plantas Cultivadas
+			Matologia
+		Floricultura Parques e Jardins
+			Floricultura
+			Parques e Jardins
+			Arborização de Vias Públicas
+		Agrometeorologia
+		Extensão Rural
+	Recursos Florestais e Engenharia Florestal
+		Silvicultura
+			Dendrologia
+			Florestamento e Reflorestamento
+			Genética e Melhoramento Florestal
+			Sementes Florestais
+			Nutrição Florestal
+			Fisiologia Florestal
+			Solos Florestais
+			Proteção Florestal
+		Manejo Florestal
+			Economia Florestal
+			Política e Legislação Florestal
+			Administração Florestal
+			Dendrometria e Inventário Florestal
+			Fotointerpretação Florestal
+			Ordenamento Florestal
+		Técnicas e Operações Florestais
+			Exploração Florestal
+			Mecanização Florestal
+		Tecnologia e Utilização de Produtos Florestais
+			Anatomia e Identificação de Produtos Florestais
+			Propriedades Fisico-Mecânicas da Madeira
+			Relações Água-Madeira e Secagem
+			Tratamento da Madeira
+			Processamento Mecânico da Madeira
+			Química da Madeira
+			Resinas de Madeiras
+			Tecnologia de Celulose e Papel
+			Tecnologia de Chapas
+		Conservação da Natureza
+			Hidrologia Florestal
+			Conservação de Áreas Silvestres
+			Conservação de Bacias Hidrográficas
+			Recuperação de Areas Degradadas
+		Energia de Biomassa Florestal
+	Engenharia Agrícola
+		Máquinas e Implementos Agrícolas
+		Engenharia de Água e Solo
+			Irrigação e Drenagem
+			Conservação de Solo e Água
+		Engenharia de Processamento de Produtos Agrícolas
+			Pré-Processamento de Produtos Agrícolas
+			Armazenamento de Produtos Agrícolas
+			Transferência de Produtos Agrícolas
+		Construções Rurais e Ambiência
+			Assentamento Rural
+			Engenharia de Construções Rurais
+			Saneamento Rural
+		Energização Rural
+	Zootecnia
+		Ecologia dos Animais Domésticos e Etologia
+		Genética e Melhoramento dos Animais Domésticos
+		Nutrição e Alimentação Animal
+			Exigências Nutricionais dos Animais
+			Avaliação de Alimentos para Animais
+			Conservação de Alimentos para Animais
+		Pastagem e Forragicultura
+			Avaliação Produção e Conservação de Forragens
+			Manejo e Conservação de Pastagens
+			Fisiologia de Plantas Forrageiras
+			Melhoramento de Plantas Forrageiras e Produção de Sementes
+			Toxicologia e Plantas Tóxicas
+		Produção Animal
+			Criação de Animais
+			Manejo de Animais
+			Instalações para Produção Animal
+	Medicina Veterinária
+		Clínica e Cirurgia Animal
+			Anestesiologia Animal
+			Técnica Cirúrgica Animal
+			Radiologia de Animais
+			Farmacologia e Terapêutica Animal
+			Obstetrícia Animal
+			Clínica Veterinária
+			Clínica Cirúrgica Animal
+			Toxicologia Animal
+		Medicina Veterinária Preventiva
+			Epidemiologia Animal
+			Saneamento Aplicado a Saúde do Homem
+			Doenças Infecciosas de Animais
+			Doenças Parasitárias de Animais
+			Saúde Animal (Programas Sanitários)
+		Patologia Animal
+			Patologia Aviária
+			Anatomia Patologia Animal
+			Patologia Clínica Animal
+		Reprodução Animal
+			Ginecologia e Andrologia Animal
+			Inseminação Artificial Animal
+			Fisiopatologia da Reprodução Animal
+		Inspeção de Produtos de Origem Animal
+	Recursos Pesqueiros e Engenharia de Pesca
+		Recursos Pesqueiros Marinhos
+			Fatores Abióticos do Mar
+			Avaliação de Estoques Pesqueiros Marinhos
+			Exploração Pesqueira Marinha
+			Manejo e Conservação de Recursos Pesqueiros Marinhos
+		Recursos Pesqueiros de Águas Interiores
+			Fatores Abióticos de Águas Interiores
+			Avaliação de Estoques Pesqueiros de Águas Interiores
+			Explotação Pesqueira de Águas Interiores
+			Manejo e Conservação de Recursos Pesqueiros de Águas Interiores
+		Aqüicultura
+			Maricultura
+			Carcinocultura
+			Ostreicultura
+			Piscicultura
+		Engenharia de Pesca
+	Ciência e Tecnologia de Alimentos
+		Ciência de Alimentos
+			Valor Nutritivo de Alimentos
+			Química Física Fisico-Química e Bioquímica dos Alim. e <>das Mat-Primas Alimentares
+			Microbiologia de Alimentos
+			Fisiologia Pós-Colheita
+			Toxicidade e Resíduos de Pesticidas em Alimentos
+			Avaliação e Controle de Qualidade de Alimentos
+			Padrões Legislação e Fiscalização de Alimentos
+		Tecnologia de Alimentos
+			Tecnologia de Produtos de Origem Animal
+			Tecnologia de Produtos de Origem Vegetal
+			Tecnologia das Bebidas
+			Tecnologia de Alimentos Dietéticos e Nutricionais
+			Aproveitamento de Subprodutos
+			Embalagens de Produtos Alimentares
+		Engenharia de Alimentos
+			Instalações Industriais de Produção de Alimentos
+			Armazenamento de Alimentos
+Ciências Biológicas
+	Biologia Geral
+	Genética
+		Genética Quantitativa
+		Genética Molecular e de Microorganismos
+		Genética Vegetal
+		Genética Animal
+		Genética Humana e Médica
+		Mutagenese
+	Botânica
+		Paleobotânica
+		Morfologia Vegetal
+			Morfologia Externa
+			Citologia Vegetal
+			Anatomia Vegetal
+			Palinologia
+		Fisiologia Vegetal
+			Nutrição e Crescimento Vegetal
+			Reprodução Vegetal
+			Ecofisiologia Vegetal
+		Taxonomia Vegetal
+			Taxonomia de Criptógamos
+			Taxonomia de Fanerógamos
+		Fitogeografia
+		Botânica Aplicada
+	Zoologia
+		Paleozoologia
+		Morfologia dos Grupos Recentes
+		Fisiologia dos Grupos Recentes
+		Comportamento Animal
+		Taxonomia dos Grupos Recentes
+		Zoologia Aplicada
+			Conservação das Espécies Animais
+			Utilização dos Animais
+			Controle Populacional de Animais
+	Ecologia
+		Ecologia Teórica
+		Ecologia de Ecossistemas
+		Ecologia Aplicada
+	Morfologia
+		Citologia e Biologia Celular
+		Embriologia
+		Histologia
+		Anatomia
+			Anatomia Humana
+			Anatomia Animal
+	Fisiologia
+		Fisiologia Geral
+		Fisiologia de Órgãos e Sistemas
+			Neurofisiologia
+			Fisiologia Cardiovascular
+			Fisiologia da Respiração
+			Fisiologia Renal
+			Fisiologia Endócrina
+			Fisiologia da Digestão
+			Cinesiologia
+		Fisiologia do Esforço
+		Fisiologia Comparada
+	Bioquímica
+		Química de Macromoléculas
+			Proteínas
+			Lipídeos
+			Glicídeos
+		Bioquímica dos Microorganismos
+		Metabolismo e Bioenergética
+		Biologia Molecular
+		Enzimologia
+	Biofísica
+		Biofísica Molecular
+		Biofísica Celular
+		Biofísica de Processos e Sistemas
+		Radiologia e Fotobiologia
+	Farmacologia
+		Farmacologia Geral
+			Farmacocinética
+			Biodisponibilidade
+		Farmacologia Autonômica
+		Neuropsicofarmacologia
+		Farmacologia Cardiorenal
+		Farmacologia Bioquímica e Molecular
+		Etnofarmacologia
+		Toxicologia
+		Farmacologia Clínica
+	Imunologia
+		Imunoquímica
+		Imunologia Celular
+		Imunogenética
+		Imunologia Aplicada
+	Microbiologia
+		Biologia e Fisiologia dos Microorganismos
+			Virologia
+			Bacterologia
+			Micologia
+		Microbiologia Aplicada
+			Microbiologia Médica
+			Microbiologia Industrial e de Fermentação
+	Parasitologia
+		Protozoologia de Parasitos
+			Protozoologia Parasitária Humana
+			Protozoologia Parasitária Animal
+		Helmintologia de Parasitos
+			Helmintologia Humana
+			Helmintologia Animal
+		Entomologia e Malacologia de Parasitos e Vetores
+Ciências da Saúde
+	Medicina
+		Clínica Médica
+			Angiologia
+			Dermatologia
+			Alergologia e Imunologia Clínica
+			Cancerologia
+			Hematologia
+			Endocrinologia
+			Neurologia
+			Pediatria
+			Doenças Infecciosas e Parasitárias
+			Cardiologia
+			Gastroenterologia
+			Pneumologia
+			Nefrologia
+			Reumatologia
+			Ginecologia e Obstetrícia
+			Fisiatria
+			Oftalmologia
+			Ortopedia
+		Cirurgia
+			Cirurgia Plástica e Restauradora
+			Cirurgia Otorrinolaringológica
+			Cirurgia Oftalmológica
+			Cirurgia Cardiovascular
+			Cirurgia Toráxica
+			Cirurgia Gastroenterologia
+			Cirurgia Pediátrica
+			Neurocirurgia
+			Cirurgia Urológica
+			Cirurgia Proctológica
+			Cirurgia Ortopédica
+			Cirurgia Traumatológica
+			Anestesiologia
+			Cirurgia Experimental
+		Saúde Materno-Infantil
+		Psiquiatria
+		Anatomia Patológica e Patologia Clínica
+		Radiologia Médica
+		Medicina Legal e Deontologia
+	Odontologia
+		Clínica Odontológica
+		Cirurgia Buco-Maxilo-Facial
+		Ortodontia
+		Odontopediatria
+		Periodontia
+		Endodontia
+		Radiologia Odontológica
+		Odontologia Social e Preventiva
+		Materiais Odontológicos
+	Farmácia
+		Farmacotecnia
+		Farmacognosia
+		Análise Toxicológica
+		Análise e Controle e Medicamentos
+		Bromatologia
+	Enfermagem
+		Enfermagem Médico-Cirúrgica
+		Enfermagem Obstétrica
+		Enfermagem Pediátrica
+		Enfermagem Psiquiátrica
+		Enfermagem de Doenças Contagiosas
+		Enfermagem de Saúde Pública
+	Nutrição
+		Bioquímica da Nutrição
+		Dietética
+		Análise Nutricional de População
+		Desnutrição e Desenvolvimento Fisiológico
+	Saúde Coletiva
+		Epidemiologia
+		Saúde Pública
+		Medicina Preventiva
+	Fonoaudiologia
+	Fisioterapia e Terapia Ocupacional
+	Educação Física
+Ciências Exatas e da Terra
+	Matemática
+		Álgebra
+			Conjuntos
+			Lógica Matemática
+			Teoria dos Números
+			Grupos de Álgebra Não-Comutaviva
+			Álgebra Comutativa
+			Geometria Algébrica
+		Análise
+			Análise Complexa
+			Análise Funcional
+			Análise Funcional Não-Linear
+			Equações Diferenciais Ordinárias
+			Equações Diferenciais Parciais
+			Equações Diferenciais Funcionais
+		Geometria e Topologia
+			Geometria Diferencial
+			Topologia Algébrica
+			Topologia das Variedades
+			Sistemas Dinâmicos
+			Teoria das Singularidades e Teoria das Catástrofes
+			Teoria das Folheações
+		Matemática Aplicada
+			Física Matemática
+			Análise Numérica
+			Matemática Discreta e Combinatória
+	Probabilidade e Estatística
+		Probabilidade
+			Teoria Geral e Fundamentos da Probabilidade
+			Teoria Geral e Processos Estocásticos
+			Teoremas de Limite
+			Processos Markovianos
+			Análise Estocástica
+			Processos Estocásticos Especiais
+		Estatística
+			Fundamentos da Estatística
+			Inferência Paramétrica
+			Inferência Não-Paramétrica
+			Inferência em Processos Estocásticos
+			Análise Multivariada
+			Regressão e Correlação
+			Análise de Dados
+		Probabilidade e Estatística Aplicadas
+	Ciência da Computação
+		Teoria da Computação
+			Computabilidade e Modelos de Computação
+			Linguagem Formais e Autômatos
+			Análise de Algoritmos e Complexidade de Computação
+			Lógicas e Semântica de Programas
+		Matemática da Computação
+			Matemática Simbólica
+			Modelos Analíticos e de Simulação
+		Metodologia e Técnicas da Computação
+			Linguagens de Programação
+			Engenharia de Software
+			Banco de Dados
+			Sistemas de Informação
+		Processamento Gráfico (Graphics)
+		Sistemas de Computação
+			Hardware
+			Arquitetura de Sistemas de Computação
+			Software Básico
+			Teleinformática
+	Astronomia
+		Astronomia de Posição e Mecânica Celeste
+			Astronomia Fundamental
+			Astronomia Dinâmica
+		Astrofísica Estelar
+		Astrofísica do Meio Interestelar
+			Meio Interestelar
+			Nebulosa
+		Astrofísica Extragalactica
+			Galáxias
+			Aglomerados de Galáxias
+			Quasares
+			Cosmologia
+		Astrofísica do Sistema Solar
+			Física Solar
+			Movimento da Terra
+			Sistema Planetário
+		Instrumentação Astronômica
+			Astronomia Ótica
+			Radioastronomia
+			Astronomia Espacial
+			Processamento de Dados Astronômicos
+	Física
+		Física Geral
+			Métodos Matemáticos da Física
+			Física Clássica e Física Quântica; Mecânica e Campos
+			Relatividade e Gravitação
+			Física Estatística e Termodinâmica
+			Metrologia; Técnicas Gerais de Laboratório; Sistema de Instrumentação
+			Instrumentação Específica de Uso Geral em Física
+		Áreas Clássicas de Fenomenologia e suas Aplicações
+			Eletricidade e Magnetismo; Campos e Partículas Carregadas
+			Ótica
+			Acústica
+			Transferência de Calor; Processos Térmicos e Termodinâmicos
+			Mecânica; Elasticidade e Reologia
+			Dinâmica dos Fluídos
+		Física das Partículas Elementares e Campos
+			Teoria Geral de Partículas e Campos
+			Teorias Específicas e Modelos de Interação; Sistemática de Partículas; Raios Cósmicos
+			Reações Específicas e Fenomiologia de Partículas
+			Propriedades de Partículas Específicas e Ressonâncias
+		Física Nuclear
+			Estrutura Nuclear
+			Desintegração Nuclear e Radioatividade
+			Reações Nucleares e Espalhamento Geral
+			Reações Nucleares e Espalhamento (Reações Específicas)
+			Propriedades de Núcleos Específicos
+		Métodos Experimentais e Instrumentação para Partículas Elementares e Física Nuclear
+			Física Atômica e Molecular
+			Estrutura Eletrônica de Átomos e Moléculas; Teoria
+			Espectros Atômicos e Integração de Fótons
+			Espectros Moleculares e Interações de Fótons com Moléculas
+			Processos de Colisão e Interações de Átomos e Moléculas
+			Inf. sobre Átomos e Moléculas Obtidos Experimentalmente; Instrumentação e Técnicas
+			Estudos de Átomos e Moléculas Especiais
+		Física dos Fluídos; Física de Plasmas e Descargas Elétricas
+			Cinética e Teoria de Transporte de Fluídos; Propriedades Físicas de Gases
+			Física de Plasmas e Descargas Elétricas
+		Física da Matéria Condensada
+			Estrutura de Líquidos e Sólidos; Cristalografia
+			Propriedades Mecânicas e Acústicas da Matéria Condensada
+			Dinâmica da Rede e Estatística de Cristais
+			Equação de Estado; Equilíbrio de Fases e Transições de Fase
+			Propriedades Térmicas da Matéria Condensada
+			Propriedades de Transportes de Matéria Condensada (Não Eletrônica)
+			Campos Quânticos e Sólidos; Hélio; Líquido; Sólido
+			Estados Eletrônicos
+			Transp. Eletrônicos e Prop. Elétricas de Superfícies; Interfaces e Películas
+			Estruturas Eletrônicas e Propriedades Elétricas de Superfícies; Interf. e Partículas
+			Supercondutividade
+			Materiais Magnéticos e Propriedades Magnéticas
+			Ressonância Mag. e Relax. na Mat. Condens; Efeitos Mosbauer; Corr. Ang. Pertubada
+			Materiais Dielétricos e Propriedades Dielétricas
+			Prop. Óticas e Espectrosc. da Mat. Condens; Outras Inter. da Mat. com Rad. e Part.
+			Emissão Eletrônica e Iônica por Líquidos e Sólidos; Fenômenos de Impacto
+	Química
+		Química Orgânica
+			Estrutura; Conformação e Estereoquímica
+			Síntese Orgânica
+			Físico-Química Orgânica
+			Fotoquímica Orgânica
+			Química dos Produtos Naturais
+			Evolução; Sistemática e Ecologia Química
+			Polímeros e Colóides
+		Química Inorgânica
+			Campos de Coordenação
+			Não-Metais e Seus Compostos
+			Compostos Organo-Metálicos
+			Determinação de Estrutura de Compostos Inorgânicos
+			Foto-Química Inorgânica
+			Físico Química Inorgânica
+			Química Bio-Inorgânica
+		Físico-Química
+			Cinética Química e Catálise
+			Eletroquímica
+			Espectroscopia
+			Química de Interfaces
+			Química do Estado Condensado
+			Química Nuclear e Radioquímica
+			Química Teórica
+			Termodinâmica Química
+		Química Analítica
+			Separação
+			Métodos Óticos de Análise
+			Eletroanalítica
+			Gravimetria
+			Titimetria
+			Instrumentação Analítica
+			Análise de Traços e Química Ambiental
+	Geociências
+		Geologia
+			Mineralogia
+			Petrologia
+			Geoquímica
+			Geologia Regional
+			Geotectônica
+			Geocronologia
+			Cartografia Geológica
+			Metalogenia
+			Hidrogeologia
+			Prospecção Mineral
+			Sedimentologia
+			Paleontologia Estratigráfica
+			Estratigrafia
+			Geologia Ambiental
+		Geofísica
+			Geomagnetismo
+			Sismologia
+			Geotermia e Fluxo Térmico
+			Propriedades Físicas das Rochas
+			Geofísica Nuclear
+			Sensoriamento Remoto
+			Aeronomia
+			Desenvolvimento de Instrumentação Geofísica
+			Geofísica Aplicada
+			Gravimetria
+		Meteorologia
+			Meteorologia Dinâmica
+			Meteorologia Sinótica
+			Meteorologia Física
+			Química da Atmosfera
+			Instrumentação Meteorológica
+			Climatologia
+			Micrometeorologia
+			Sensoriamento Remoto da Atmosfera
+			Meteorologia Aplicada
+		Geodésia
+			Geodésia Física
+			Geodésia Geométrica
+			Geodésia Celeste
+			Fotogrametria
+			Cartografia Básica
+		Geografia Física
+			Geomorfologia
+			Climatologia Geográfica
+			Pedologia
+			Hidrogeografia
+			Geoecologia
+			Fotogeografia (Físico-Ecológica)
+			Geocartografia
+	Oceanografia
+		Oceanografia Biológica
+			Interação entre os Organismos Marinhos e os Parâmetros Ambientais
+		Oceanografia Física
+			Variáveis Físicas da Água do Mar
+			Movimento da Água do Mar
+			Origem das Massas de Água
+			Interação do Oceano com o Leito do Mar
+			Interação do Oceano com a Atmosfera
+		Oceanografia Química
+			Propriedades Químicas da Água do Mar
+			Interações Químico-Biológicas/Geológicas das Substâncias Químicas da Água do Mar
+		Oceanografia Geológica
+			Geomorfologia Submarina
+			Sedimentologia Marinha
+			Geofísica Marinha
+			Geoquímica Marinha
+Engenharias
+	Engenharia Civil
+		Construção Civil
+			Materiais e Componentes de Construção
+			Processos Construtivos
+			Instalações Prediais
+		Estruturas
+			Estruturas de Concreto
+			Estruturas de Madeiras
+			Estruturas Metálicas
+			Mecânica das Estruturas
+		Geotécnica
+			Fundações e Escavações
+			Mecânicas das Rochas
+			Mecânicas dos Solos
+			Obras de Terra e Enrocamento
+			Pavimentos
+		Engenharia Hidráulica
+			Hidráulica
+			Hidrologia
+		Infra-Estrutura de Transportes
+			Aeroportos; Projeto e Construção
+			Ferrovias; Projetos e Construção
+			Portos e Vias Nevegáveis; Projeto e Construção
+			Rodovias; Projeto e Construção
+	Engenharia de Minas
+		Pesquisa Mineral
+			Caracterização do Minério
+			Dimensionamento de Jazidas
+		Lavra
+			Lavra a Céu Aberto
+			Lavra de Mina Subterrânea
+			Equipamentos de Lavra
+		Tratamento de Minérios
+			Métodos de Concentração e Enriquecimento de Minérios
+			Equipamentos de Beneficiamento de Minérios
+	Engenharia de Materiais e Metalúrgica
+		Instalações e Equipamentos Metalúrgicos
+			Instalações Metalúrgicas
+			Equipamentos Metalúrgicos
+		Metalurgia Extrativa
+			Aglomeração
+			Eletrometalurgia
+			Hidrometalurgia
+			Pirometalurgia
+			Tratamento de Minérios
+		Metalurgia de Transformação
+			Conformação Mecânica
+			Fundição
+			Metalurgia de Pó
+			Recobrimentos
+			Soldagem
+			Tratamentos Térmicos; Mecânicos e Químicos
+			Usinagem
+		Metalurgia Física
+			Estrutura dos Metais e Ligas
+			Propriedades Físicas dos Metais e Ligas
+			Propriedades Mecânicas dos Metais e Ligas
+			Transformação de Fases
+			Corrosão
+		Materiais Não-Metálicos
+			Extração e Transformação de Materiais
+			Cerâmicos
+			Materiais Conjugados Não-Metálicos
+			Polímeros; Aplicações
+	Engenharia Elétrica
+		Materiais Elétricos
+			Materiais Condutores
+			Materiais e Componentes Semicondutores
+			Materiais e Dispositivos Supercondutores
+			Materiais Dielétricos; Piezoelétricos e Ferroelétricos
+			Materiais e Componentes Eletroóticos e Magnetoóticos; Materiais Fotoelétricos
+			Materiais e Dispositivos Magnéticos
+		Medidas Elétricas; Magnéticas e Eletrônicas; Instrumentação
+			Medidas Elétricas
+			Medidas Magnéticas
+			Instrumentação Eletromecânica
+			Instrumentação Eletrônica
+			Sistemas Eletrônicos de Medida e de Controle
+		Circuitos Elétricos; Magnéticos e Eletrônicos
+			Teoria Geral dos Circuitos Elétricos
+			Circuitos Lineares e Não-Lineares
+			Circuitos Eletrônicos
+			Circuitos Magnéticos; Magnetismos e Eletromagnetismos
+		Sistemas Elétricos de Potência
+			Geração da Energia Elétricas
+			Transmissão da Energia Elétrica; Distribuição da Energia Elétrica
+			Conversão e Retificação da Energia Elétrica
+			Medição; Controle; Correção e Proteção de Sistemas Elétricos de Potência
+			Máquinas Elétricas e Dispositivos de Potência
+			Instalações Elétricas e Industriais
+		Eletrônica Industrial; Sistemas e Controles Eletrônicos
+			Eletrônica Industrial
+			Automação Eletrônica de Processos Elétricos e Industriais
+			Controle de Processos Eletrônicos; Retroalimentação
+		Telecomunicações
+			Teoria Eletromagnetica; Microondas; Propagação de Ondas; Antenas
+			Radionavegação e Radioastronomia
+			Sistemas de Telecomunicações
+	Engenharia Mecânica
+		Fenômenos de Transporte
+			Transferência de Calor
+			Mecânica dos Fluídos
+			Dinâmica dos Gases
+			Princípios Variacionais e Métodos Numéricos
+		Engenharia Térmica
+			Termodinâmica
+			Controle Ambiental
+			Aproveitamento da Energia
+		Mecânica dos Sólidos
+			Mecânica dos Corpos Sólidos; Elásticos e Plásticos
+			Dinâmica dos Corpos Rígidos; Elásticos e Plásticos
+			Análise de Tensões
+			Termoelasticidade
+		Projetos de Máquinas
+			Teoria dos Mecanismos
+			Estática e Dinâmica Aplicada
+			Elementos de Máquinas
+			Fundamentos Gerais de Projetos das Máquinas
+			Máquinas; Motores e Equipamentos
+			Métodos de Síntese e Otimização Aplicados ao Projeto Mecânico
+			Controle de Sistemas Mecânicos
+			Aproveitamento de Energia
+		Processos de Fabricação
+			Matrizes e Ferramentas
+			Maquinas de Usinagem e Conformação
+			Controle Numérico
+			Robotização
+			Processos de Fabricação; Seleção Econômica
+	Engenharia Química
+		Processos Industriais de Engenharia Química
+			Processos Bioquímicos
+			Processos Orgânicos
+			Processos Inorgânicos
+		Operações Industriais e Equipamentos para Engenharia Química
+			Reatores Químicos
+			Operações Características de Processos Bioquímicos
+			Operações de Separação e Mistura
+		Tecnologia Química
+			Balanços Globais de Matéria e Energia
+			Água
+			Álcool
+			Alimentos
+			Borrachas
+			Carvão
+			Cerâmica
+			Cimento
+			Couro
+			Detergentes
+			Fertilizantes
+			Medicamentos
+			Metais Não-Ferrosos
+			Óleos
+			Papel e Celulose
+			Petróleo e Petroquímica
+			Polímeros
+			Produtos Naturais
+			Têxteis
+			Tratamentos e Aproveitamento de Rejeitos
+			Xisto
+	Engenharia Sanitária
+		Recursos Hídricos
+			Planejamento Integrado dos Recursos Hídricos
+			Tecnologia e Problemas Sanitários de Irrigação
+			Águas Subterráneas e Poços Profundos
+			Controle de Enchentes e de Barragens
+			Sedimentologia
+		Tratamento de Águas de Abastecimento e Residuárias
+			Química Sanitária
+			Processos Simplificados de Tratamento de Águas
+			Técnicas Convencionais de Tratamento de Águas
+			Técnicas Avançadas de Tratamento de Águas
+			Estudos e Caracterização de Efluentes Industriais
+			Layout de Processos Industriais
+			Resíduos Radioativos
+		Saneamento Básico
+			Técnicas de Abastecimento da Água
+			Drenagem de Águas Residuárias
+			Drenagem Urbana de Águas Pluviais
+			Residuos Sólidos; Domésticos e Industriais
+			Limpeza Pública
+			Instalações Hidráulico-Sanitárias
+		Saneamento Ambiental
+			Ecologia Aplicada a Engenharia Sanitária
+			Microbiologia Aplicada e Engenharia Sanitária
+			Parasitologia Aplicada a Engenharia Sanitária
+			Qualidade do Ar; das Águas e do Solo
+			Controle da Poluição
+			Legislação Ambiental
+	Engenharia de Produção
+		Gerência de Produção
+			Planejamento de Instalações Industriais
+			Planejamento; Projeto e Controle de Sistemas de Produção
+			Higiene e Segurança do Trabalho
+			Suprimentos
+			Garantia de Controle de Qualidade
+		Pesquisa Operacional
+			Processos Estocásticos e Teoria das Filas
+			Programação Linear; Não-Linear; Mista e Dinâmica
+			Séries Temporais
+			Teoria dos Grafos
+			Teoria dos Jogos
+		Engenharia do Produto
+			Ergonomia
+			Metodologia de Projeto do Produto
+			Processos de Trabalho
+			Gerência do Projeto e do Produto
+			Desenvolvimento de Produto
+		Engenharia Econômica
+			Estudo de Mercado
+			Localização Industrial
+			Análise de Custos
+			Economia de Tecnologia
+			Vida Econômica dos Equipamentos
+			Avaliação de Projetos
+	Engenharia Nuclear
+		Aplicações de Radioisótopos
+			Produção de Radioisótopos
+			Aplicações Industriais de Radioisótopos
+			Instrumentação para Medida e Controle de Radiação
+		Fusão Controlada
+			Processos Industriais da Fusão Controlada
+			Problemas Tecnológicos da Fusão Controlada
+		Combustível Nuclear
+			Extração de Combustível Nuclear
+			Conversão; Enriquecimento e Fabricação de Combustível Nuclear
+			Reprocessamento de Combustível Nuclear
+			Rejeitos de Combustível Nuclear
+		Tecnologia dos Reatores
+			Núcleo do Reator
+			Materiais Nucleares e Blindagem de Reatores
+			Transferência de Calor em Reatores
+			Geração e Integração com Sistemas Elétricos em Reatores
+			Instrumentação para Operação e Controle de Reatores
+			Segurança; Localização e Licenciamento de Reatores
+			Aspectos Econômicos de Reatores
+	Engenharia de Transportes
+		Planejamento de Transportes
+			Planejamento e Organização do Sistema de Transporte
+			Economia dos Transportes
+		Veículos e Equipamentos de Controle
+			Vias de Transporte
+			Veículos de Transportes
+			Estação de Transporte
+			Equipamentos Auxiliares e Controles
+		Operações de Transportes
+			Engenharia de Tráfego
+			Capacidade de Vias de Transporte
+			Operação de Sistemas de Transporte
+	Engenharia Naval e Oceânica
+		Hidrodinâmica de Navios e Sistemas Oceânicos
+			Resistência Hidrodinâmica
+			Propulsão de Navios
+		Estruturas Navais e Oceânicas
+			Análise Teórica e Experimental de Estrutura
+			Dinâmica Estrutural Naval e Oceânica
+			Síntese Estrutural Naval e Oceânica
+		Máquinas Marítimas
+			Análise de Sistemas Propulsores
+			Controle e Automação de Sistemas Propulsores
+			Equipamentos Auxiliares do Sistema Propulsivo
+			Motor de Propulsão
+		Projeto de Navios e de Sistemas Oceânicos
+			Projetos de Navios
+			Projetos de Sistemas Oceânicos Fixos e Semi-Fixos
+			Projetos de Embarcações Não-Convencionais
+		Tecnologia de Construção Naval e de Sistemas Oceânicas
+			Métodos de Fabricação de Navios e Sistemas Oceânicos
+			Soldagem de Estruturas Navais e Oceânicos
+			Custos de Construção Naval
+			Normatização e Certificação de Qualidade de Navios
+	Engenharia Aeroespacial
+		Aerodinâmica
+			Aerodinâmica de Aeronaves Espaciais
+			Aerodinâmica dos Processos Geofísicos e Interplanetários
+		Dinâmica de Vôo
+			Trajetórias e Órbitas
+			Estabilidade e Controle
+		Estruturas Aeroespaciais
+			Aeroelasticicidade
+			Fadiga
+			Projeto de Estruturas Aeroespaciais
+		Materiais e Processos para Engenharia Aeronáutica e Aeroespacial
+		Propulsão Aeroespacial
+			Combustão e Escoamento com Reações Químicas
+			Propulsão de Foguetes
+			Máquinas de Fluxo
+			Motores Alternativos
+		Sistemas Aeroespaciais
+			Aviões
+			Foguetes
+			Helicópteros
+			Hovercraft
+			Satélites e Outros Dispositivos Aeroespaciais
+			Normatização e Certificação de Qualidade de Aeronaves e Componentes
+			Manutenção de Sistemas Aeroespaciais
+	Engenharia Biomédica
+	Bioengenharia
+		Processamento de Sinais Biológicos
+		Modelagem de Fenômenos Biológicos
+		Modelagem de Sistemas Biológicos
+	Engenharia Médica
+		Biomateriais e Materiais Biocompatíveis
+		Transdutores para Aplicações Biomédicas
+		Instrumentação Odontológica e Médico-Hospitalar
+		Tecnologia de Próteses
+Ciências Humanas
+	Filosofia
+		História da Filosofia
+		Metafísica
+		Lógica
+		Ética
+		Epistemologia
+		Filosofia Brasileira
+	Sociologia
+		Fundamentos da Sociologia
+			Teoria Sociológica
+			História da Sociologia
+		Sociologia do Conhecimento
+		Sociologia do Desenvolvimento
+		Sociologia Urbana
+		Sociologia Rural
+		Sociologia da Saúde
+		Outras Sociologias Específicas
+	Antropologia
+		Teoria Antropológica
+		Etnologia Indígena
+		Antropologia Urbana
+		Antropologia Rural
+		Antropologia das Populações Afro-Brasileiras
+	Arqueologia
+		Teoria e Método em Arqueologia
+		Arqueologia Pré-Histórica
+		Arqueologia Histórica
+	História
+		Teoria e Filosofia da História
+		História Antiga e Medieval
+		História Moderna e Contemporânea
+		História da América
+			História dos Estados Unidos
+			História Latino-Americana
+		História do Brasil
+			História do Brasil Colônia
+			História do Brasil Império
+			História do Brasil República
+			História Regional do Brasil
+		História das Ciências
+	Geografia
+		Geografia Humana
+			Geografia da População
+			Geografia Agrária
+			Geografia Urbana
+			Geografia Econômica
+			Geografia Política
+		Geografia Regional
+			Teoria do Desenvolvimento Regional
+			Regionalização
+			Análise Regional
+	Psicologia
+		Fundamentos e Medidas da Psicologia
+			História; Teorias e Sistemas em Psicologia
+			Metodologia; Instrumentação e Equipamento em Psicologia
+			Construção e Validade de Testes; Escalas e Outras Medidas Psicológicas
+			Técnicas de Processamento Estatístico; Matemático e Computacional em Psicologia
+		Psicologia Experimental
+			Processos Perceptuais e Motores
+			Processos de Aprendizagem; Memória e Motivação
+			Processos Cognitivos e Atencionais
+			Estados Subjetivos e Emoção
+		Psicologia Fisiológica
+			Neurologia; Eletrofisiologia e Comportamento
+			Processos Psico-Fisiológicos
+			Estimulação Elétrica e com Drogas; Comportamento
+			Psicobiologia
+		Psicologia Comparativa
+			Estudos Naturalísticos do Comportamento Animal
+		Mecanismos Instintivos e Processos Sociais em Animais
+		Psicologia Social
+			Relações Interpessoais
+			Processos Grupais e de Comunicação
+			Papéis e Estruturas Sociais; Indivíduo
+		Psicologia Cognitiva
+		Psicologia do Desenvolvimento Humano
+			Processos Perceptuais e Cognitivos; Desenvolvimento
+			Desenvolvimento Social e da Personalidade
+		Psicologia do Ensino e da Aprendizagem
+			Planejamento Institucional
+			Programação de Condições de Ensino
+			Treinamento de Pessoal
+			Aprendizagem e Desempenho Acadêmicos
+			Ensino e Aprendizagem na Sala de Aula
+		Psicologia do Trabalho e Organizacional
+			Análise Institucional
+			Recrutamento e Seleção de Pessoal
+			Treinamento e Avaliação
+			Fatores Humanos no Trabalho
+			Planejamento Ambiental e Comportamento Humano
+		Tratamento e Prevenção Psicológica
+			Intervenção Terapêutica
+			Programas de Atendimento Comunitário
+			Treinamento e Reabilitação
+			Desvios da Conduta
+			Distúrbios da Linguagem
+			Distúrbios Psicossomáticos
+	Educação
+		Fundamentos da Educação
+			Filosofia da Educação
+			História da Educação
+			Sociologia da Educação
+			Antropologia Educacional
+			Economia da Educação
+			Psicologia Educacional
+		Administração Educacional
+			Administração de Sistemas Educacionais
+			Administração de Unidades Educativas
+		Planejamento e Avaliação Educacional
+			Política Educacional
+			Planejamento Educacional
+			Avaliação de Sistemas; Instituições; Planos e Programas Educacionais
+		Ensino-Aprendizagem
+			Teorias da Instrução
+			Métodos e Técnicas de Ensino
+			Tecnologia Educacional
+			Avaliação da Aprendizagem
+		Currículo
+			Teoria Geral de Planejamento e Desenvolvimento Curricular
+			Currículos Específicos para Níveis e Tipos de Educação
+		Orientação e Aconselhamento
+			Orientação Educacional
+			Orientação Vocacional
+		Tópicos Específicos de Educação
+			Educação de Adultos
+			Educação Permanente
+			Educação Rural
+			Educação em Periferias Urbanas
+			Educação Especial
+			Educação Pré-Escolar
+			Ensino Profissionalizante
+	Ciência Política
+		Teoria Política
+			Teoria Política Clássica
+			Teoria Política Medieval
+			Teoria Política Moderna
+			Teoria Política Contemporânea
+		Estado e Governo
+			Estrutura e Transformação do Estado
+			Sistemas Governamentais Comparados
+			Relações Intergovernamentais
+			Estudos do Poder Local
+			Instituições Governamentais Específicas
+		Comportamento Político
+			Estudos Eleitorais e Partidos Políticos
+			Atitude e Ideologias Políticas
+			Conflitos e Coalizões Políticas
+			Comportamento Legislativo
+			Classes Sociais e Grupos de Interesse
+		Políticas Públicas
+			Análise do Processo Decisório
+			Análise Institucional
+			Técnicas de Antecipação
+		Política Internacional
+			Política Externa do Brasil
+			Organizações Internacionais
+			Integração Internacional; Conflito; Guerra e Paz
+			Relações Internacionais; Bilaterais e Multilaterais
+	Teologia
+	História da Teologia
+	Teologia Moral
+	Teologia Sistemática
+	Teologia Pastoral
+Ciências Sociais Aplicadas
+	Direito
+		Teoria do Direito
+			Teoria Geral do Direito
+			Teoria Geral do Processo
+			Teoria do Estado
+			História do Direito
+			Filosofia do Direito
+			Lógica Jurídica
+			Sociologia Jurídica
+			Antropologia Jurídica
+		Direito Público
+			Direito Tributário
+			Direito Penal
+			Direito Processual Penal
+			Direito Processual Civil
+			Direito Constitucional
+			Direito Administrativo
+			Direito Internacional Público
+		Direito Privado
+			Direito Civil
+			Direito Comercial
+			Direito do Trabalho
+			Direito Internacional Privado
+		Direitos Especiais
+	Administração
+		Administração de Empresas
+			Administração da Produção
+			Administração Financeira
+			Mercadologia
+			Negócios Internacionais
+			Administração de Recursos Humanos
+		Administração Pública
+			Contabilidade e Finanças Públicas
+			Organizações Públicas
+			Política e Planejamento Governamentais
+			Administração de Pessoal
+			Planejamento em Ciência e Tecnologia
+		Administração de Setores Específicos
+		Ciências Contábeis
+	Economia
+		Teoria Econômica
+			Economia Geral
+			Teoria Geral da Economia
+			História do Pensamento Econômico
+			História Econômica
+			Sistemas Econômicos
+		Métodos Quantitativos em Economia
+			Métodos e Modelos Matemáticos; Econométricos e Estatísticos
+			Estatística Sócio-Econômica
+			Contabilidade Nacional
+			Economia Matemática
+		Economia Monetária e Fiscal
+			Teoria Monetária e Financeira
+			Instituições Monetárias e Financeiras do Brasil
+			Finanças Públicas Internas
+			Política Fiscal do Brasil
+		Crescimento; Flutuações e Planejamento Econômico
+			Crescimento e Desenvolvimento Econômico
+			Teoria e Política de Planejamento Econômico
+			Flutuações Cíclicas e Projeções Econômicas
+			Inflação
+		Economia Internacional
+			Teoria do Comércio Internacional
+			Relações do Comércio; Política Comercial; Integração Econômica
+			Balanço de Pagamentos; Finanças Internacionais
+			Investimentos Internacionais e Ajuda Externa
+		Economia dos Recursos Humanos
+			Treinamento e Alocação de Mão-de-Obra; Oferta de Mão-de-Obra e Força de Trabalho
+			Mercado de Trabalho; Política do Governo
+			Sindicatos; Dissídios Coletivos; Relações de Emprego (Empregador/Empregado)
+			Capital Humano
+			Demografia Econômica
+		Economia Industrial
+			Organização Industrial e Estudos Industriais
+			Mudança Tecnológica
+		Economia do Bem-Estar Social
+			Economia dos Programas de Bem-Estar Social
+			Economia do Consumidor
+		Economia Regional e Urbana
+			Economia Regional
+			Economia Urbana
+			Renda e Tributação
+		Economias Agrária e dos Recursos Naturais
+			Economia Agrária
+			Economia dos Recursos Naturais
+	Arquitetura e Urbanismo
+		Fundamentos de Arquitetura e Urbanismo
+			História da Arquitetura e Urbanismo
+			Teoria da Arquitetura
+			História do Urbanismo
+			Teoria do Urbanismo
+		Projeto de Arquitetura e Urbanismo
+			Planejamento e Projetos da Edificação
+			Planejamento e Projeto do Espaço Urbano
+			Planejamento e Projeto do Equipamento
+		Tecnologia de Arquitetura e Urbanismo
+			Adequação Ambiental
+		Paisagismo
+			Desenvolvimento Histórico do Paisagismo
+			Conceituação de Paisagísmo e Metodologia do Paisagismo
+			Estudos de Organização do Espaço Exterior
+			Projetos de Espaços Livres Urbanos
+	Planejamento Urbano e Regional
+		Fundamentos do Planejamento Urbano e Regional
+			Teoria do Planejamento Urbano e Regional
+			Teoria da Urbanização
+			Política Urbana
+			História Urbana
+		Métodos e Técnicas do Planejamento Urbano e Regional
+			Informação; Cadastro e Mapeamento
+			Técnica de Previsão Urbana e Regional
+			Técnicas de Análise e Avaliação Urbana e Regional
+			Técnicas de Planejamento e Projeto Urbanos e Regionais
+		Serviços Urbanos e Regionais
+			Administração Municipal e Urbana
+			Estudos da Habitação
+			Aspectos Sociais do Planejamento Urbano e Regional
+			Aspectos Econômicos do Planejamento Urbano e Regional
+			Aspectos Físico-Ambientais do Planejamento Urbano e Regional
+			Serviços Comunitários
+			Infra-Estruturas Urbanas e Regionais
+			Transporte e Tráfego Urbano e Regional
+			Legislação Urbana e Regional
+	Demografia
+		Distribuição Espacial
+			Distribuição Espacial Geral
+			Distribuição Espacial Urbana
+			Distribuição Espacial Rural
+		Tendência Populacional
+			Tendências Passadas
+			Taxas e Estimativas Correntes
+			Projeções
+		Componentes da Dinâmica Demográfica
+			Fecundidade
+			Mortalidade
+			Migração
+		Nupcialidade e Família
+			Casamento e Divórcio
+			Família e Reprodução
+		Demografia Histórica
+			Distribuição Espacial
+			Natalidade; Mortalidade; Migração
+			Nupcialidade e Família
+			Métodos e Técnicas de Demografia Histórica
+		Política Pública e População
+			Política Populacional
+			Políticas de Redistribuição de População
+			Políticas de Planejamento Familiar
+		Fontes de Dados Demográficos
+	Ciência da Informação
+		Teoria da Informação
+			Teoria Geral da Informação
+			Processos da Comunicação
+			Representação da Informação
+		Biblioteconomia
+			Teoria da Classificação
+			Métodos Quantitativos. Bibliometria
+			Técnicas de Recuperação de Informação
+			Processos de Disseminação da Informação
+		Arquivologia
+			Organização de Arquivos
+	Museologia
+	Comunicação
+		Teoria da Comunicação
+		Jornalismo e Editoração
+			Teoria e Ética do Jornalismo
+			Organização Editorial de Jornais
+			Organização Comercial de Jornais
+			Jornalismo Especializado (Comunitário; Rural; Empresarial; Científico)
+		Rádio e Televisão
+			Radiodifusão
+			Videodifusão
+		Relações Públicas e Propaganda
+		Comunicação Visual
+	Serviço Social
+		Fundamentos do Serviço Social
+		Serviço Social Aplicado
+			Serviço Social do Trabalho
+			Serviço Social da Educação
+			Serviço Social do Menor
+			Serviço Social da Saúde
+			Serviço Social da Habitação
+	Economia Doméstica
+	Desenho Industrial
+		Programação Visual
+		Desenho de Produto
+	Turismo
+Linguística; Letras e Artes
+	Linguística
+		Teoria e Análise Linguística
+		Fisiologia da Linguagem
+		Linguística Histórica
+		Sociolinguística e Dialetologia
+		Psicolinguística
+		Linguística Aplicada
+	Letras
+		Língua Portuguesa
+		Línguas Estrangeiras Modernas
+		Línguas Clássicas
+		Línguas Indígenas
+		Teoria Literária
+		Literatura Brasileira
+		Outras Literaturas Vernáculas
+		Literaturas Estrangeiras Modernas
+		Literaturas Clássicas
+		Literatura Comparada
+	Artes
+	Fundamentos e Crítica das Artes
+		Teoria da Arte
+		História da Arte
+		Crítica da Arte
+	Artes Plásticas
+		Pintura
+		Desenho
+		Gravura
+		Escultura
+		Cerâmica
+		Tecelagem
+	Música
+		Regência
+		Instrumentação Musical
+		Composição Musical
+		Canto
+	Dança
+		Execução da Dança
+		Coreografia
+	Teatro
+		Dramaturgia
+		Direção Teatral
+		Cenografia
+		Interpretação Teatral
+	Ópera
+	Fotografia
+	Cinema
+		Administração e Produção de Filmes
+		Roteiro e Direção Cinematográficos
+		Técnicas de Registro e Processamento de Filmes
+		Interpretação Cinematográfica
+	Artes do Vídeo
+	Educação Artística
