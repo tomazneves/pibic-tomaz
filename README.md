@@ -5,6 +5,9 @@ O principal obstáculo para tal análise é oriundo de dados faltantes e ambígu
 Neste trabalho, foi estudada a magnitude das lacunas dos dados relativos às áreas de pesquisa de cada produção cadastrada na plataforma Lattes por pesquisadores associados à PUC-Rio, bem como desenvolvida uma metodologia para reduzi-las. Por fim, os dados enriquecidos com as predições foram utilizados para avaliação estatística setorizada das áreas de pesquisa estudadas na PUC-Rio.
 
 ---
+## Aviso importante!
+Esse código usa a biblioteca **CuPy**, que necessita uma GPU com suporte a CUDA para funcionar (originalmente, o trabalho foi desenvolvido com uma GTX1080).
+
 ## Organização do repositório
 - **data_preproc:** Inclui dados usados no tratamento preliminar de dados, como tradução e busca de _abstracts_. Os códigos Python na pasta devem ser rodados em sequência.
 - **data_preproc/arvore_do_conhecimento.json:** Arquivo extraído manualmente da Árvore do Conhecimento do CNPq em formato JSON para ser utilizado.
